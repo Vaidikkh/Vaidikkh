@@ -1,3 +1,5 @@
+<img width="1004" height="2763" alt="127 0 0 1_5000_" src="https://github.com/user-attachments/assets/bc88f540-548e-473b-80b2-949c7babc5fd" />
+<img width="1004" height="2291" alt="127 0 0 1_5000_prediction" src="https://github.com/user-attachments/assets/b1059586-a8db-4cf3-8d1d-b2cb3a135c15" />
 ## Hi there 👋
 
 I'm **Vaidik Khandelwal**, a Computer Science (AI) undergraduate passionate about building intelligent systems and real-world AI applications.
@@ -26,6 +28,7 @@ I'm **Vaidik Khandelwal**, a Computer Science (AI) undergraduate passionate abou
 * 📈 Scaling AI applications
 * 🧩 Advanced ML concepts & system design
 * ⚡ Optimizing LLM-based systems
+<img width="1004" height="2763" alt="127 0 0 1_5000_" src="https://github.com/user-attachments/assets/0230ec73-36c6-4274-9f6b-acf838a2d0d8" />
 
 ### 💬 Ask me about
 
